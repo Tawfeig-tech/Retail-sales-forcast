@@ -1,2 +1,2 @@
-# Retail-sales-forcast
-Time series forcast
+# Retail-sales-forecasting
+Linear Regression
